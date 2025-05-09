@@ -1,6 +1,9 @@
 <div align="center">
-  <img src="https://www.chain-fox.com/logo.png" width="128" height="128">
-  <h1>Chain-Fox</h1>
+![20250509154447_2](https://github.com/user-attachments/assets/eae69041-2575-413c-abc6-b3c1bf1c8d68)
+
+
+  <h1>
+LuminaTech</h1>
   <p>Bringing automated analysis to blockchain security.</p>
 
   [![Website](https://img.shields.io/badge/Website-Chain--Fox-blue)](https://chain-fox.com)
@@ -8,14 +11,16 @@
   [![Telegram](https://img.shields.io/badge/Telegram-Join-26A5E4)](https://t.me/chainfox_sol)
   [![X](https://img.shields.io/badge/X-Follow-black)](https://x.com/ChainFoxHQ)
 
-  **CA:** `RhFVq1Zt81VvcoSEMSyCGZZv5SwBdA8MV7w4HEMpump`
+  **CA:** ``
 </div>
 
-## 🎯 Why Chain-Fox
+## 🎯 Why 
+LuminaTech
 
 Security is the biggest concern for blockchain and smart contract users and developers.
 But a manual audit is time-consuming and expensive.
-Thus we establish **Chain-Fox**, 
+Thus we establish **
+LuminaTech-Fox**, 
 an *all-in-one* platform with automatic security detection ability, making the security capabilities of blockchain more democratic. 
 We aim to make security *affordable* to every user and developer in the blockchain ecosystem.
 
